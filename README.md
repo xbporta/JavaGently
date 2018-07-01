@@ -11,3 +11,5 @@ All code published in this repo is property of *"Java Gently" - Third Edition* a
   * Example 2.1 - Welcome
   * Example 2.2 - Drawing a flag
   * Example 2.3 - Curio Store
+  * Example 2.4 - Display a Warning
+  * Example 2.5 - Fleet Timetable
