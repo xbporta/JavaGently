@@ -7,7 +7,7 @@ class LotsaLabels {
 	 * Illustrates a simple for-loop
 	 */
 	
-	DisplayWarning () {
+	LotsaLabels () {
 		
 		for (int i = 0; i < 8; i++) {
 			System.out.println("-----------------------------");
@@ -21,6 +21,6 @@ class LotsaLabels {
 	}
 	
 	public static void main (String [] args) {
-		new DisplayWarning ();
+		new LotsaLabels ();
 	}
 }
