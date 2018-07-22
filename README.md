@@ -15,3 +15,6 @@ All code published in this repo is property of *"Java Gently" - Third Edition* a
   * Example 2.5 - Fleet Timetable
 * Chapter 03 - Types and methods
   * Example 3.1 - Math class investigation
+  * Example 3.2 - Lotsa Labels
+  * Example 3.3 - Temperature Table
+  * Example 3.4 - Rainfall Histogram
